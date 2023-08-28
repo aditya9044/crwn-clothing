@@ -21,7 +21,3 @@ Remember to replace the config variable in your firebase.utils.js with your own 
 <img width="1261" alt="Screen Shot 2022-03-11 at 8 51 22 PM" src="https://user-images.githubusercontent.com/10578605/157999158-10e921cc-9ee5-46f6-a0c5-1ae5686f54f3.png">
 
 HAPPY CODING!!
-git checkout -b my-main-branch
-```
-
-3. Now you can just code on this branch, push code from this branch up to your forked repo etc. The main thing to remember is that you want to be on this branch for your own code, so remember what you named this branch!
